@@ -1,0 +1,53 @@
+﻿can coronavirus live in hot temperatures? not at temperatures above 4C
+How long does the coronavirus live outside? three days
+can animals transfer coronavirus? zoonotic spillover
+how long will the quarantine last? three weeks
+What can be the risk factors of COVID-19? hypertension
+What is the range of incubation periods for COVID-19 in humans? 2-14 days
+What percentage of COVID-19 cases in humans had incubation periods of longer than 14 days? 11.6
+How does the incubation period for COVID-19 in humans vary by age? age>=40 years
+Is there concrete evidence for the presence of asymptomatic transmissions? very lacking
+What is the basic reproductive number for the novel coronavirus? 2.56
+What is evidence that the novel covonavirus can be transmitted through fecal excretion? stools of infected children
+Will the number of COVID-19 cases decline in the summer? not necessarily
+What does the literature say about the effect of temperature variation and humidity on the mortality rate of COVID-19 in Wuhan? positive association with COVID-19 mortality was observed for diurnal temperature range
+How long can coronavirus persist on different surfaces? persist on inanimate surfaces like metal, glass or plastic for up to 9 days
+How long can HCoV-19 survive on aerosols? 3 hours
+How long can HCoV-19 persist on plastic and stainless steel? up to 72 hours
+What is some evidence that recovered COVID-19 patients can get reinfected? discharged patients in china and elsewhere were testing positive after recovering
+For how many hours can HCoV-19 survive on cardboard? 24 hours
+How long can SARS-CoV-2 stay on copper? 4 hours
+What is the reproduction number of COVID-19? 2.56
+How do we know that hypertension is a risk factor of COVID-19? hypertension (56.1%)
+What is some evidence that diabetes poses a potential risk factor to COVID-19? associated with mortality
+Is heart disease a potential risk factor for COVID-19? severity was higher in the AMI patients
+Are obese people more at risk to COVID-19? BMI of the critical group was significantly higher
+What is the relationship between pregnancy and COVID-19? 6/9 pregnancies showed fetal distress
+Do people who smoke have a higher risk from COVID-19? higher proportion of patients
+How short is the serial interval for COVID-19? shorter than its median incubation period
+When was the first human case of COVID-19 reported? December 2019
+What is the recommended length of quarantine? three weeks
+What meteorological factors may impact COVID-19 death? temperature
+What facility was responsible for significantly decreasing COVID-19 mortality in Wuhan and Hubei? makeshift hospitals
+Is being diagnosed with coronavirus the same as being diagnosed as COVID-19? A diagnosis with coronavirus 229E, NL63, OC43, or HKU1 is not the same as a COVID-19 diagnosis
+What other coronavirus strands that infect humans originated from animals? Middle East Respiratory Syndrome
+How long do COVID-19 patients have to be isolated? three weeks
+Is a COVID-19 patient who has recovered considered a risk to others? discharged patients in china and elsewhere were testing positive after recovering
+What temperature kills HCoV-19? don't have direct data
+What is the most common way that coronavirus spreads? respiratory droplets
+Are children at a higher risk of becoming sick with COVID-19 than adults? do not appear
+Are the symptoms of COVID-19 different in children than in adults? similar
+What are some symptoms of COVID-19 in children? cold-like symptoms
+Am I safe if I tested negative for COVID-19? 15% of the RT-PCR negative patients were tested positive
+Are people with disabilities at higher risk of COVID-19? not
+What diseases are caused by coronavirus? MERS
+What are the symptoms of COVID-19? fever
+What can I do to protect myself against COVID-19? wash hands
+What should someone who has visited areas heavily infected with COVID-19 do? self isolate
+Who is the most prone to develop severe COVID-19? older persons
+Why are antibiotics not effective against COVID-19? do not work
+Are there any medicines or therapies that can prevent or cure COVID-19? no evidence
+Is there a vaccine for COVID-19? no vaccine
+Is COVID-19 the same as SARS? related to each other genetically
+What measures are not effective against COVID-19 and can actually be harmful? smoking
+Is COVID-19 airborne? disease transmission via airborne
